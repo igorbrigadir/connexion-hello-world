@@ -6,6 +6,8 @@ Minimal hello world example with [Connexion](https://github.com/zalando/connexio
 
 The Connexion README doesn't actually get you started and the [Pet Store example](https://github.com/hjacobs/connexion-example) is overly complicated.
 
+This Branch adds an example Rate Limiter for your API using Flask-Limiter.
+
 # Development
 ## First Setup
 - `python3 -m venv .`
